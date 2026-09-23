@@ -21,3 +21,7 @@ domains/workspace/data/split_workspace.json
 EngDesign/
 domains/eng/data/frontier_manifest.json
 domains/eng/data/engdesign_v1/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
